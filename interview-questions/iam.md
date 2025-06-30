@@ -17,7 +17,7 @@ You can secure your AWS account by enforcing the principle of least privilege, c
 IAM users are individuals or entities that have a fixed set of permissions associated with them. IAM roles are temporary credentials that can be assumed by users or AWS services to access resources.
 
 ### 7. What is an IAM policy?
-An IAM policy is a JSON document that defines permissions. It specifies what actions are allowed or denied on which AWS resources for whom (users, groups, or roles).
+An IAM policy is a JSON document that defines permissions. It specifies what actions are allowed or denied on which AWS resources for whom (users, groups, or accounts).
 
 ### 8. What is the AWS Management Console?
 The AWS Management Console is a web-based interface that allows you to interact with and manage AWS resources. IAM users can use the console to access resources based on their permissions.
